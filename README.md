@@ -47,9 +47,9 @@ Com o **FortXTracker**, você fica por dentro de tudo que está rolando no jogo!
 ## 📸 **Preview do App**
 
 > ![Menu](https://github.com/user-attachments/assets/2fe3c15e-25b7-4641-a81d-0b10becea48e)
-> ![Loja de Itens] (https://github.com/user-attachments/assets/0ca849c5-0701-4721-9fb2-af4b6cc56091)
-> ![Pesquisa de Itens do Jogo] (https://github.com/user-attachments/assets/62da0e46-2dc3-4067-867e-b499963ffceb)
-> ![Detahe de Itens do Jogo] (https://github.com/user-attachments/assets/7518e9e4-96d2-475f-885c-425903edd31a)
+> ![Loja de Itens](https://github.com/user-attachments/assets/0ca849c5-0701-4721-9fb2-af4b6cc56091)
+> ![Pesquisa de Itens do Jogo](https://github.com/user-attachments/assets/62da0e46-2dc3-4067-867e-b499963ffceb)
+> ![Detahe de Itens do Jogo](https://github.com/user-attachments/assets/7518e9e4-96d2-475f-885c-425903edd31a)
 > ![Clube Fortnite](https://github.com/user-attachments/assets/81844865-d514-4028-b33c-ef58fe521b62)
 > ![Lista de Desejos](https://github.com/user-attachments/assets/128045da-6570-4ca3-b4ff-a27738eb2208)
 
