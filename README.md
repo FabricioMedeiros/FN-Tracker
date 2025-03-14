@@ -1,8 +1,8 @@
-# 🕹️ **FortXTracker**
+# 🕹️ **FN Tracker**
 
 ### 📱 *Acompanhe tudo do Fortnite de forma prática e intuitiva!*
 
-Com o **FortXTracker**, você fica por dentro de tudo que está rolando no jogo! Acompanhe a Loja de Itens diariamente, explore todos os itens do jogo, veja novidades, confira o Passe de Batalha e muito mais.
+Com o **FN Tracker**, você fica por dentro de tudo que está rolando no jogo! Acompanhe a Loja de Itens diariamente, explore todos os itens do jogo, veja novidades, confira o Passe de Batalha e muito mais.
 
 ---
 
